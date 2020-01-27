@@ -23,7 +23,7 @@ Statuses:
 - Waitlisted: the user was not admitted to the event
 - Confirmed: the user has been admitted and has confirmed their attendance
 - User declined admission: the user has been admitted, but will not be attending the event
-
+`
 ### Application
 ![Application](./docs/images/screenshots/application.png)
 
