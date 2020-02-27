@@ -15,6 +15,7 @@ var Session = require('./modules/Session.js');
 
 var routes = require('./routes.js');
 
+
 app
   .config([
     '$httpProvider',
@@ -36,3 +37,5 @@ app
       }
 
   }]);
+
+  
